@@ -11,19 +11,21 @@
 
 # About ME 💬 :
 
-### - I'm 20 years  from POLINEMA ISEKAI
+### - My name Tenzaa
+### - I'm 20 years  from POLINEMA Faculty
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ 
-- ✨ Generative Adversarial Networks
+- ✨ Website Development
+- ✨ Network Enginer
+- ✨ Internet Of Things
 
-### - Hobbies : 
-- ✨ Gaming Addict
+### Hobbies: 
+- ✨ Game addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Reading Philosophy Books
+- ✨ Badminton 
 
 </br>
 </br>
