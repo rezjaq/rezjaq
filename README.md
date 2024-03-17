@@ -39,7 +39,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" alt="html"  width="100" hight="50">
+<img src="https://github.com/rezjaq/rezjaq/blob/main/asset%20github/html5-logo.png" alt="html"  width="100" hight="50">
 <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.pngg" alt="css"  width="100" hight="50">
 <img src="https://iconape.com/wp-content/png_logo_vector/laravel-logo-2.png" alt="Laravel" width="90" hight="50">
 <img src="https://logowiki.net/uploads/logo/g/github-1.svg" alt="github" width="100" hight="50">
