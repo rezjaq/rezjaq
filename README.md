@@ -39,7 +39,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png](https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png)" alt="css"  width="100" hight="50">
+<img src="[https://github.com/rezjaq/rezjaq/blob/main/asset%20github/html5-logo.png]" alt="html"  width="100" hight="50">
 <img src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png](https://logospng.org/download/laravel/logo-laravel-icon-1024.png)" alt="Laravel" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png](https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-icon-1024.png)" alt="Codeigneter" width="180" hight="50">
