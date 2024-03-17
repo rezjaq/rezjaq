@@ -39,10 +39,11 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="[https://github.com/rezjaq/rezjaq/blob/main/asset%20github/html5-logo.png]" alt="html"  width="100" hight="50">
-<img src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png](https://logospng.org/download/laravel/logo-laravel-icon-1024.png)" alt="Laravel" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png](https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-icon-1024.png)" alt="Codeigneter" width="180" hight="50">
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" alt="html"  width="100" hight="50">
+<img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.pngg" alt="css"  width="100" hight="50">
+<img src="https://iconape.com/wp-content/png_logo_vector/laravel-logo-2.png" alt="Laravel" width="90" hight="50">
+<img src="https://logowiki.net/uploads/logo/g/github-1.svg" alt="github" width="100" hight="50">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" alt="Codeigneter" width="180" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
