@@ -32,7 +32,7 @@
 
 ## Let's Connect:
 
-- 📧 Email: [ejaaa646@gmail.com(mailto:ejaaa646@gmail.com)
+- 📧 Email: [ejaaa646@gmail.com](mailto:ejaaa646@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tenzaa](https://www.linkedin.com/in/tenzaa)
 - 🌐 GitHub: [github.com/rezjaq](https://https://github.com/rezjaq)
 
