@@ -29,3 +29,13 @@
 - 🏸 Playing Badminton
 
 </br>
+
+## Let's Connect:
+
+- 📧 Email: [tenzaa@example.com](mailto:ejaaa646@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/tenzaa](https://www.linkedin.com/in/tenzaa)
+- 🌐 GitHub: [github.com/tenzaa](https://https://github.com/rezjaq)
+
+Feel free to reach out to me for any inquiries, collaborations, or just to say hi!
+
+## Keep Exploring, Keep Coding! 🚀
