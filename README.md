@@ -32,9 +32,9 @@
 
 ## Let's Connect:
 
-- 📧 Email: [tenzaa@example.com](mailto:ejaaa646@gmail.com)
+- 📧 Email: [ejaaa646@gmail.com(mailto:ejaaa646@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tenzaa](https://www.linkedin.com/in/tenzaa)
-- 🌐 GitHub: [github.com/tenzaa](https://https://github.com/rezjaq)
+- 🌐 GitHub: [github.com/rezjaq](https://https://github.com/rezjaq)
 
 Feel free to reach out to me for any inquiries, collaborations, or just to say hi!
 
