@@ -22,14 +22,6 @@
 
 </br>
 
-### Hobbies: 
-- 🎮 Gaming
-- 📺 Watching Anime
-- 📚 Reading Philosophy Books
-- 🏸 Playing Badminton
-
-</br>
-
 ## Let's Connect:
 
 - 📧 Email: [ejaaa646@gmail.com](mailto:ejaaa646@gmail.com)
