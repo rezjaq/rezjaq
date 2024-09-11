@@ -5,7 +5,7 @@
 </div>
 
 
-### - Hi there! I'm Tenzaa, a 20-year-old student from POLINEMA Faculty.
+### - Hi there! I'm Reza, a 20-year-old student from POLINEMA Faculty.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -18,7 +18,6 @@
 - 📺 Watching Movies
 - 📚 Reading Philosophy Books
 - 🏸 Playing Badminton
-
 
 ## Let's Connect:
 
