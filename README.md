@@ -15,18 +15,10 @@
 - 🌟 Internet of Things
 
 ### Hobbies: 
-- 🎮 Gaming
-- 📺 Watching Anime
+- 📺 Watching Movies
 - 📚 Reading Philosophy Books
 - 🏸 Playing Badminton
 
-</br>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-## My WakaTime Coding Activity
-
-<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 ## Let's Connect:
 
